@@ -1,2 +1,2 @@
-# menu-card-app
-Menu Card App
+# App de menú AR
+App de menú
